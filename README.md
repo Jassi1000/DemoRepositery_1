@@ -1,2 +1,3 @@
 # DemoRepositery_1
-This is my demo repositery
+This is my demo repositery.
+Author - Jaspreet Singh
